@@ -253,13 +253,13 @@ header{
   }
 
   .main h1{
-    color: #ffcce6;
+    color: #ffffff;
     font-size: 60px;
     text-align: center;
     line-height: 50px;
     text-shadow: 0 0 10px #ff4da6,
-    0 0 20px #ff4da6,
-    0 0 40px #ff4da6;
+    0 0 20px #00008B,
+    0 0 40px #00008B;
   }
 
   .main span{
